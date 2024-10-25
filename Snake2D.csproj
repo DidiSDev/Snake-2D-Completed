@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWPF>true</UseWPF> <!-- PERMITE USAR LA INTERFAZ WPF PARA CREAR VENTANAS, BOTONES, GRÁFICOS MÁS COMPLEJOS-->
+		<UseWindowsForms>true</UseWindowsForms>
+		<!--AUNQUE AQUÍ NO USAMOS OpenTK TECNOLOGÍA DE INTERFAZ GRÁFICA QUE PERMITE AGREGAR FUNCIONALIDADES O COMPONENTES GRÁFICOS -->
+	</PropertyGroup>
+
+	<ItemGroup>
+		<!-- FRAMEWORK PARA WINDOWS FORMS INTEGRATION -->
+		<FrameworkReference Include="Microsoft.WindowsDesktop.App.WindowsForms" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="OpenTK" Version="4.7.6" />
+		<PackageReference Include="OpenTK.GLControl" Version="4.0.1" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Compile Update="SelectModeDialog.xaml.cs">
+			<SubType>Code</SubType>
+		</Compile>
+	</ItemGroup>
+	<!-- LOS SHADERS DE COLOR/FORMA -->
+	<ItemGroup>
+		<Content Include="Shaders\Shader.vert">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Content>
+		<Content Include="Shaders\Shader.frag">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</Content>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Page Update="MainWindow.xaml">
+			<SubType>Designer</SubType>
+		</Page>
+		<Page Update="SelectModeDialog.xaml">
+			<SubType>Designer</SubType>
+		</Page>
+	</ItemGroup>
+
+</Project>

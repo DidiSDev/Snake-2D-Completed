@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilia\\Desktop\\Snake2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|c:\\users\\dilia\\desktop\\snake2d\\posicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|solutionrelative:posicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|c:\\users\\dilia\\desktop\\snake2d\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|c:\\users\\dilia\\desktop\\snake2d\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|c:\\users\\dilia\\desktop\\snake2d\\seleccionarmodo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|solutionrelative:seleccionarmodo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|c:\\users\\dilia\\desktop\\snake2d\\seleccionarmodo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|solutionrelative:seleccionarmodo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|c:\\users\\dilia\\desktop\\snake2d\\shaders\\shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|solutionrelative:shaders\\shader.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|c:\\users\\dilia\\desktop\\snake2d\\shaders\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|solutionrelative:shaders\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|c:\\users\\dilia\\desktop\\snake2d\\snake2d.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|solutionrelative:snake2d.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|c:\\users\\dilia\\desktop\\snake2d\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|solutionrelative:nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|c:\\users\\dilia\\desktop\\snake2d\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|c:\\users\\dilia\\desktop\\snake2d\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B7A7A5-9B58-4DEA-AB62-45DBE51EBAB4}|Snake2D.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\Desktop\\Snake2D\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\dilia\\Desktop\\Snake2D\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:22:45.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\dilia\\Desktop\\Snake2D\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\dilia\\Desktop\\Snake2D\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T08:21:49.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeleccionarModo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\Desktop\\Snake2D\\SeleccionarModo.xaml.cs",
+              "RelativeDocumentMoniker": "SeleccionarModo.xaml.cs",
+              "ToolTip": "C:\\Users\\dilia\\Desktop\\Snake2D\\SeleccionarModo.xaml.cs",
+              "RelativeToolTip": "SeleccionarModo.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:11:28.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeleccionarModo.xaml",
+              "DocumentMoniker": "C:\\Users\\dilia\\Desktop\\Snake2D\\SeleccionarModo.xaml",
+              "RelativeDocumentMoniker": "SeleccionarModo.xaml",
+              "ToolTip": "C:\\Users\\dilia\\Desktop\\Snake2D\\SeleccionarModo.xaml",
+              "RelativeToolTip": "SeleccionarModo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T08:11:19.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Posicion.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\Desktop\\Snake2D\\Posicion.cs",
+              "RelativeDocumentMoniker": "Posicion.cs",
+              "ToolTip": "C:\\Users\\dilia\\Desktop\\Snake2D\\Posicion.cs",
+              "RelativeToolTip": "Posicion.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:22:17.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\Desktop\\Snake2D\\Nodo.cs",
+              "RelativeDocumentMoniker": "Nodo.cs",
+              "ToolTip": "C:\\Users\\dilia\\Desktop\\Snake2D\\Nodo.cs",
+              "RelativeToolTip": "Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:12:49.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Snake2D.csproj",
+              "DocumentMoniker": "C:\\Users\\dilia\\Desktop\\Snake2D\\Snake2D.csproj",
+              "RelativeDocumentMoniker": "Snake2D.csproj",
+              "ToolTip": "C:\\Users\\dilia\\Desktop\\Snake2D\\Snake2D.csproj",
+              "RelativeToolTip": "Snake2D.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T17:16:59.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dilia\\Desktop\\Snake2D\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dilia\\Desktop\\Snake2D\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAEgCAAAAAAAAAAAswIICAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:35:02.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shader.vert",
+              "DocumentMoniker": "C:\\Users\\dilia\\Desktop\\Snake2D\\Shaders\\Shader.vert",
+              "RelativeDocumentMoniker": "Shaders\\Shader.vert",
+              "ToolTip": "C:\\Users\\dilia\\Desktop\\Snake2D\\Shaders\\Shader.vert",
+              "RelativeToolTip": "Shaders\\Shader.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T18:05:48.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shader.frag",
+              "DocumentMoniker": "C:\\Users\\dilia\\Desktop\\Snake2D\\Shaders\\Shader.frag",
+              "RelativeDocumentMoniker": "Shaders\\Shader.frag",
+              "ToolTip": "C:\\Users\\dilia\\Desktop\\Snake2D\\Shaders\\Shader.frag",
+              "RelativeToolTip": "Shaders\\Shader.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T18:06:02.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dilia\\Desktop\\Snake2D\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dilia\\Desktop\\Snake2D\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T16:35:04.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
