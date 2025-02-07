@@ -15,6 +15,7 @@ namespace Snake2D
         //            new Posicion(10, 10), //CABEZA
         //            new Posicion(9, 10),  //CUERPO 1
         //            new Posicion(8, 10)   //CUERPO 3
+        //            EL CUERPO AUMENTA EN UN "CUADRO" DE 20X20
         //        };
         //direccionJugador1 = new Posicion(1, 0); //SU DESPLZMIENTO EMPIEZA HACIA LA DERECHA
     public Posicion(int x, int y)
